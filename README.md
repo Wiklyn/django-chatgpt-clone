@@ -15,11 +15,10 @@ In case you mistype it an error message will be shown at your screen saying that
 
 ![Register Error](./passwords_dont_match.png)
 
-When you're registered, you'll be redirected to the chat page.
+When you're registered, you'll be redirected to the chat page. On this page you'll see an option to logout.
 
 ![Chat](./chat.png)
 
-On this page you'll see an option to logout.
 If you logout, you'll be redirected to the login page.
 
 ![Login](./login.png)
