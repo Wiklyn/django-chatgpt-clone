@@ -13,15 +13,15 @@ To register you need to choose an username, an email, and you need to type the s
 
 In case you mistype it an error message will be shown at your screen saying that that passwords don't match.
 
-![Register Error](./passwords_dont_match.png)
+![Register Error](./Images/passwords_dont_match.png)
 
 When you're registered, you'll be redirected to the chat page. On this page you'll see an option to logout.
 
-![Chat](./chat.png)
+![Chat](./Images/chat.png)
 
 If you logout, you'll be redirected to the login page.
 
-![Login](./login.png)
+![Login](./Images/login.png)
 
 ### Built with
 
