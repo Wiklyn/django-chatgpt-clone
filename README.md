@@ -6,24 +6,22 @@ This project is a chatbot using OpenAI API. The goal was to make a ChatGPT clone
 
 It's a simple chatbot, working only with text. The frontend was built with HTML templates and all the CSS and JavaScript needed for it to work properly was written in style and script tags in the templates.
 
-In this chatbot there is a register app, but you can chat with the AI without registering. If you do choose to register, you'll be able to see your chat history with the AI. Regardless of how many users are registered, you can only see your own history.
+In this chatbot there is a register app. When you register, you'll be able to see your chat history with the AI. Regardless of how many users are registered, you can only see your own history.
+To register you need to choose an username, an email, and you need to type the same password twice.
 
-![Register]("/")
+![Register](./register.png)
 
-To register you need to choose an username, an email, and you need to type the same password twice. In case you mistype it an error message will be shown at your screen saying that that passwords don't match.
+In case you mistype it an error message will be shown at your screen saying that that passwords don't match.
 
-![Error]("/")
+![Register Error](./passwords_dont_match.png)
 
-When you're registered, you'll be redirected to the homepage, that is the chatbot itself.
+When you're registered, you'll be redirected to the chat page. On this page you'll see an option to logout.
 
-![Home]("/")
+![Chat](./chat.png)
 
-![Some_chat]("/")
-
-On this page you'll see an option to logout.
 If you logout, you'll be redirected to the login page.
 
-![Login]("/")
+![Login](./login.png)
 
 ### Built with
 
@@ -32,8 +30,3 @@ If you logout, you'll be redirected to the login page.
 - HTML
 - CSS
 - JavaScript
-
-## Author
-
-- Queria colocar meu linkedin aqui
-- Frontend Mentor - [@Wiklyn](https://www.frontendmentor.io/profile/Wiklyn)

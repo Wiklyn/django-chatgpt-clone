@@ -6,7 +6,8 @@ from .models import Chat
 from django.utils import timezone
 import openai
 
-openai_api_key = "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"
+# It's needed to get an OpenAI API Key
+openai_api_key = "Put the API Key here"
 openai.api_key = openai_api_key
 
 
