@@ -31,6 +31,7 @@ def chatbot(request):
         chat = Chat(user=request.user, message=message,
                     response=response, created_at=timezone.now())
         chat.save()
+        print(response)
         return JsonResponse({"message": message, "response": response})
 
     return render(request, "chatbot.html", {"chats": chats})
