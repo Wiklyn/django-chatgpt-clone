@@ -9,7 +9,7 @@ It's a simple chatbot, working only with text. The frontend was built with HTML 
 In this chatbot there is a register app. When you register, you'll be able to see your chat history with the AI. Regardless of how many users are registered, you can only see your own history.
 To register you need to choose an username, an email, and you need to type the same password twice.
 
-![Register](./register.png)
+![Register](./Images/register.png)
 
 In case you mistype it an error message will be shown at your screen saying that that passwords don't match.
 
