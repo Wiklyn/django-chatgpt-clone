@@ -7,7 +7,7 @@ This project is a chatbot using OpenAI API. The goal was to make a ChatGPT clone
 It's a simple chatbot, working only with text. The frontend was built with HTML templates and all the CSS and JavaScript needed for it to work properly was written in style and script tags in the templates.
 
 In this chatbot there is a register app. When you register, you'll be able to see your chat history with the AI. Regardless of how many users are registered, you can only see your own history.
-To register you need to choose an username, an email, and you need to type the same password twice.
+To register you need to choose a username, an email, and you need to type the same password twice.
 
 ![Register](./Images/register.png)
 
